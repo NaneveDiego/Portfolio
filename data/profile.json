@@ -1,0 +1,68 @@
+{
+  "name": "Diego Oliveira Ferreira",
+  "photo": "https://avatars.githubusercontent.com/u/167140212?v=4",
+  "job": "Developer Junior",
+  "location": "Salvador - BA",
+  "phone": "(71) 9 8874 2459",
+  "email": "nanevediego@gmail.com",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "Javascript",
+        "logo": "https://raw.githubusercontent.com/NaneveDiego/js-developer-portfolio/main/data/imgs/js.png"
+      },
+      {
+        "name": "Html",
+        "logo": "https://github.com/NaneveDiego/js-developer-portfolio/blob/main/data/imgs/html.png?raw=true"
+      },
+      {
+        "name": "Css",
+        "logo": "https://github.com/NaneveDiego/js-developer-portfolio/blob/main/data/imgs/css.png?raw=true"
+      },
+      {
+        "name": "Nodejs",
+        "logo": "https://github.com/NaneveDiego/js-developer-portfolio/blob/main/data/imgs/nodejs.png?raw=true"
+      },
+      {
+        "name": "Java",
+        "logo": "https://github.com/NaneveDiego/js-developer-portfolio/blob/main/data/imgs/java.png?raw=true"
+      },
+      {
+        "name": "Github",
+        "logo": "https://github.com/NaneveDiego/js-developer-portfolio/blob/main/data/imgs/github.png?raw=true"
+      }
+    ],
+    "softSkills": [
+      "Criatividade",
+      "Proatividade",
+      "Trabalho em equipe",
+      "Flexibilidade",
+      "Organização"
+    ]
+  },
+  "languages": [
+    "Português BR",
+    "Inglês (intermediário)",
+    "Espanhol (Basico)"
+  ],
+  "portfolio": [
+    {
+      "name": "Projeto Ministrado na DIO para a criação de uma Pokedex",
+      "url": "https://github.com/NaneveDiego/Pokedex",
+      "github": true
+    },
+    {
+      "name": "Projeto Ministrado na DIO para a criação de uma página de Portfolio",
+      "url": "https://github.com/NaneveDiego/Portfolio",
+      "github": true
+    }
+  ],
+  "professionalExperience": [
+    {
+      "name": "Procurando uma experiencia profissional",
+      "period": "até o momento",
+      "description": "Espero me aprimorar e me consolidar no mercado"
+    }
+    
+  ]
+}
