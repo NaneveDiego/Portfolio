@@ -9,27 +9,27 @@
     "hardSkills": [
       {
         "name": "Javascript",
-        "logo": "https://raw.githubusercontent.com/NaneveDiego/js-developer-portfolio/main/data/imgs/js.png"
+        "logo": "https://github.com/NaneveDiego/Portfolio/blob/main/data/imgs/js.png?raw=true"
       },
       {
         "name": "Html",
-        "logo": "https://github.com/NaneveDiego/js-developer-portfolio/blob/main/data/imgs/html.png?raw=true"
+        "logo": "https://github.com/NaneveDiego/Portfolio/blob/main/data/imgs/html.png?raw=true"
       },
       {
         "name": "Css",
-        "logo": "https://github.com/NaneveDiego/js-developer-portfolio/blob/main/data/imgs/css.png?raw=true"
+        "logo": "https://github.com/NaneveDiego/Portfolio/blob/main/data/imgs/css.png?raw=true"
       },
       {
         "name": "Nodejs",
-        "logo": "https://github.com/NaneveDiego/js-developer-portfolio/blob/main/data/imgs/nodejs.png?raw=true"
+        "logo": "https://github.com/NaneveDiego/Portfolio/blob/main/data/imgs/nodejs.png?raw=true"
       },
       {
         "name": "Java",
-        "logo": "https://github.com/NaneveDiego/js-developer-portfolio/blob/main/data/imgs/java.png?raw=true"
+        "logo": "https://github.com/NaneveDiego/Portfolio/blob/main/data/imgs/java.png?raw=true"
       },
       {
         "name": "Github",
-        "logo": "https://github.com/NaneveDiego/js-developer-portfolio/blob/main/data/imgs/github.png?raw=true"
+        "logo": "https://github.com/NaneveDiego/Portfolio/blob/main/data/imgs/github.png?raw=true"
       }
     ],
     "softSkills": [
